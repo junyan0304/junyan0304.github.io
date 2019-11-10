@@ -1,0 +1,17 @@
+h1
+{
+	color:black;
+	text-align:center;
+}
+p
+{
+	color:black;
+	text-align:center;
+}
+img
+{
+	max-width:400px;
+	max-height:700px;
+	margin-left:50%;
+	transform: translate(-50%);
+}
